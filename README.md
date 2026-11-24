@@ -1,4 +1,4 @@
-Buenas tardes, ingeniero.
+Buenas noches, ing.
 
 Quería comentarle que el proyecto TECHSTORE lo estoy realizando de manera individual. Inicialmente formaba parte de un grupo con otros compañeros y ya habíamos avanzado en el desarrollo del proyecto. Sin embargo, mis compañeros decidieron sacarme del grupo y no me informaron de esta situación hasta hace poco.
 
@@ -9,3 +9,4 @@ Por esta razón, quisiera pedirle de favor si pudiera tomar en cuenta mi situaci
 Le agradecería mucho su comprensión y el apoyo que pueda brindarme ante esta situación.
 
 Muchas gracias por su tiempo.
+linda noche.
